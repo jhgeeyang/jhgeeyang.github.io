@@ -13,16 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jihyun Yang's blog
+title: Jihyun Yang
 email: jihyunyang@mymail.mines.edu
 description: >- # this means to ignore newlines until "baseurl:"
     Posts about computational geophysics, Machine learning and optimization.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jhgeeyang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jhgeeyang
+github:
+    profile: 'https://github.com/jhgeeyang'
+name: 'Jihyun Yang'
 
 #
 paginate: 5
+paginate_path: '/blog/page:num' 
 
 # Build settings
 markdown: kramdown
@@ -34,6 +38,11 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 sidebar_home_link: true
+sidebar_blog_link: '/blog' 
+
+collections:
+    news:
+        output: false
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

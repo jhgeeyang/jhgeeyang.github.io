@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Send me a postcard!"
+
+title: "Contacts"
 ---
 
-DigitalOcean\\
-Attn: Sammy Shark\\
-101 Avenue of the Americas\\
-New York, NY 10013
+Email: jihyunyang[at]mymail[dot]mines[dot]edu
 
-![A postcard](/assets/postcard.jpg)
+
+![A postcard](/assets/lobster.jpg)
+
+
 
 
