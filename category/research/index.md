@@ -8,12 +8,11 @@ sidebar_sort_order: 1
 I work primarily in the of computational geophysics
 , which tries to explain wave phenomena with the capability of the high performance computing(HPC).
 The primary goal of such research is
-to improve the software and algorithms available
-for the computer-aided design of modern devices,
-control systems, and therapeutics.
+to accelerate the software and algorithms available
+for geophysical computing.
 
 ### Monitoring the critical infrastructure with DAS
-
+<!--
 An integral equation method utilizes either an
 exact or approximate inverse of a partial differential
 equation to analytically precondition the problem
@@ -50,7 +49,8 @@ Featured publications:
 {% endfor %}
 </ul>
 {% endif %}
-
+-->
+<!--
 ### Reduced order modeling
 
 Direct numerical simulation of complex physical
@@ -86,5 +86,6 @@ Featured publications:
 {% endfor %}
 </ul>
 {% endif %}
+-->
 
 
