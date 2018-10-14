@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Restore sources list"
+date:   2018-10-13 21:55:42 -0600
+categories:
+    - ubuntu
+tags:
+    - ubuntu
+---
 ## Restore sources list
 
 [Answer in askubuntu](https://askubuntu.com/questions/124017/how-do-i-restore-the-default-repositories)
