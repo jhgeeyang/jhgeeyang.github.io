@@ -9,5 +9,4 @@ I am PhD student majoring in computational geophysics at Colorado School of Mine
 
 [Center For Wave Phenomena](https://cwp.mines.edu)
 
-
 [jekyll-organization]: https://github.com/jekyll
