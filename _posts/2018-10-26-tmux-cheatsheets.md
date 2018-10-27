@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Restore sources list"
+title:  "Tmux cheatsheet"
 date:   2018-10-13 21:55:42 -0600
 categories:
 tags:
