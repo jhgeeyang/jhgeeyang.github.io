@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Tmux cheatsheet"
-date:   2018-10-13 21:55:42 -0600
+date:   2018-10-26 21:55:42 -0600
 categories:
 tags:
     - tmux
 ---
 [Source](https://gist.github.com/MohamedAlaa/2961058)
-# tmux shortcuts & cheatsheet
+## tmux shortcuts & cheatsheet
 
 start new:
 
