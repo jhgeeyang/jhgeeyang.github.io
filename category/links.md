@@ -5,4 +5,6 @@ title: links
 
 [Center for Wave Phenomena](https://cwp.mines.edu)  
 
-[Minesl ML Geophysics](https://mlgeophysics.github.io/community/)
+[Mines ML Geophysics](https://mlgeophysics.github.io/community/)
+
+[ORCID id](https://orcid.org/0000-0001-8225-5020)
