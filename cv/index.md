@@ -80,6 +80,10 @@ A pdf version is available [here](cv.pdf).
 <td align="left">2017</td>
 <td align="left">Visiting Scholar, Geophysics department, Texs A&M University. Principal Investigator: Richard Gibson.</td>
 </tr>
+<tr class="even">
+<td align="left">2019</td>
+<td align="left">Research Intern, Los Alamos National Laboratory</td>
+</tr>
 </tbody>
 </table>
 
