@@ -31,7 +31,7 @@ adsense: false
     </div>
 </div>
 <div>
-    <H3>최근 변경된 문서</H3>
+    <H3>Recently Changed Articles</H3>
     <ul class="post-list">
 {% assign documents = site.wiki | sort: 'updated' | reverse %}
 {% for doc in documents limit: 30 %}
@@ -57,7 +57,7 @@ adsense: false
 {% endfor %}
     </ul>
     <h4>
-        <a href="/recent/">최근 변경된 문서 전체 리스트 보기</a>
+        <a href="/recent/">List of Recently Changed Articles</a>
     </h4>
 </div>
 {% include createLink.html %}
