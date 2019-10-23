@@ -11,6 +11,8 @@ comment : false
     * [[memo-2019]]
     * [[test]]
 
+* [[Tips]]
+    * [[bash]]
 * [[timeline]]
 * [[algorithm]]
     * [[average-complexity]]
