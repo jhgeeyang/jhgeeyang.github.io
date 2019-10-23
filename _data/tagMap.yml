@@ -563,6 +563,7 @@ science:
 test:
     - {fileName: ginkgo}
     - {fileName: test-double}
+    - {fileName: 2019-10-13-gen}
 fzf:
     - {fileName: git-alias}
 til:
