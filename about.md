@@ -20,92 +20,182 @@ comment: false
 
 # About Me
 
-* 유물론자입니다.
-* 무신론자입니다.
-* 모르는 것이 많아 매일 공부합니다.
-* 수학과 과학을 동경합니다.
-* 소프트웨어 개발자입니다.
+<h4 id="education-and-qualifications">Education and Qualifications</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2023</td>
+<td align="left">Ph.D.</td>
+<td align="left">Colorado School of Mines</td>
+</tr>
+<tr class="even">
+<td align="left">2016</td>
+<td align="left">M.Eng.</td>
+<td align="left">Seoul National University</td>
+</tr>
+<tr class="odd">
+<td align="left">2011</td>
+<td align="left">B.Sc.</td>
+<td align="left">Seoul National University</td>
+</tr>
+</tbody>
+</table>
 
-# Life
+<!-- 
+<h4 id="professional-appointments">Professional Appointments</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2017</td>
+<td align="left">Visitig Scholar, Department of Geophyisics, Texas A&M Univsersity</td>
+</tr>
+</tbody>
+</table>
+-->
+<!-- 
+<h4 id="honors-awards">Honors &amp; Awards</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2016</td>
+<td align="left">Wilhelm Magnus Memorial Prize, Courant Institute of Mathematical Sciences</td>
+</tr>
+<tr class="even">
+<td align="left">2010</td>
+<td align="left">Daus Award in Mathematics, University of California Los Angeles</td>
+</tr>
+</tbody>
+</table>
+-->
+<h4 id="grants-fellowships">Grants &amp; Fellowships</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2012–2016</td>
+<td align="left">National S&T(Science & Technology) Scholarship</td>
+</tr>
+</tbody>
+</table>
+<h4 id="teaching-experience">Teaching Experience</h4>
+<h5 class="indent"  id="university-of-washington">Seoul National University</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">Engineering Mathematics (<span><strong>Teaching Assistant</strong></span>, 20 students)</td>
+</tr>
+</tbody>
+</table>
 
-* 사랑하는 아내와 행복하게 살고 있습니다.
-* 실내에 있는 것을 좋아합니다.
-* 술과 담배를 매우 싫어합니다.
-* 커피를 마시지 않습니다.
-* 근처에 컴퓨터가 있어야 마음이 놓입니다.
-* 항상 규칙적으로 생활하려 노력합니다.
-    * 잠은 매일 23시 ~ 24시에 잡니다.
-    * 늦어도 8시에는 일어납니다.
-    * 주말도 예외가 아닙니다.
-* Vim 사용자입니다.
 
-# Motto
+<h4 id="research-experience">Research Experience</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2017</td>
+<td align="left">Visiting Scholar, Geophysics department, Texs A&M University. Principal Investigator: Richard Gibson.</td>
+</tr>
+<tr class="even">
+<td align="left">2019</td>
+<td align="left">Research Intern, Los Alamos National Laboratory</td>
+</tr>
+</tbody>
+</table>
 
-> Whenever you fall, pick something up. – Oswald Avery
+<!-- 
+<h5 class="indent"  id="organization">Organization</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">2018</td>
+<td align="left">Mini symposium. High-Order Integral Equation Methods in Fluid Dynamics, ICOSAHOM. London, Greater London, UK</td>
+</tr>
+<tr class="even">
+<td align="left">2018</td>
+<td align="left">Mini symposium. Data-driven discovery for dynamical systems, SIAM UQ. Garden Grove, CA, USA</td>
+</tr>
+<tr class="odd">
+<td align="left">2017</td>
+<td align="left">Mini symposium. Data-driven characterization, control, and uncertainty quantification of dynamical systems, SIAM CSE. Atlanta, GA, USA</td>
+</tr>
+</tbody>
+</table>
+-->
 
-> 넘어지면 무언가를 주워라. - 오스왈드 에이버리
+<!-- 
+<h4 id="service-to-profession">Service to Profession</h4>
+<h5 class="indent"  id="referee">Referee</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left"><span><em>Journal of Computational Physics</em></span>, <span><em>SIAM Scientific Computing</em></span>, <span><em>Advances in Computational Mathematics</em></span>, <span><em>Complexity</em></span></td>
+</tr>
+</tbody>
+</table>
+-->
+<h5 class="indent"  id="member">Member</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left"> Society of exploration geophysicists(SEG) (since 2012)</td>
+</tr>
+</tbody>
+</table>
 
-
-# Public Key
-
-```sh
-curl https://keybase.io/johngrib/key.asc | gpg --import
-```
-
-* <https://keybase.io/johngrib/key.asc >
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-Eg==
-=0LmY
------END PGP PUBLIC KEY BLOCK-----
-```
+<!-- 
+<h4 id="software">Software</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left"><code>optdmd</code></td>
+<td align="left">A <span style="font-variant: small-caps;">Matlab</span> package for computing the optimized dynamic mode decomposition (available under the MIT license, github.com/duqbo/optdmd)</td>
+</tr>
+<tr class="even">
+<td align="left"><code>RobustDMD</code></td>
+<td align="left">A julia package for fitting exponential functions to data with robust penalties (available under the MIT license, github.com/UW-AMO/RobustDMD.jl)</td>
+</tr>
+</tbody>
+</table>
+-->
+<h4 id="skills">Skills</h4>
+<h5 class="indent"  id="coding">Coding</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">Mastery</td>
+<td align="left">C99/C++, Python, Fortran (77-95), <span style="font-variant: small-caps;">Matlab</span></td>
+</tr>
+<tr class="even">
+<td align="left">Proficiency</td>
+<td align="left">LaTeX, julia</td>
+</tr>
+<tr class="odd">
+<td align="left">Familiarity</td>
+<td align="left">CUDA, OpenMP, OpenCL (in C99), PHP, HTML</td>
+</tr>
+</tbody>
+</table>
+<h5 class="indent"  id="speaking-reading">Speaking &amp; Reading</h5>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">English (fluent)</td>
+</tr>
+<tr class="even">
+<td align="left">Korean (native)</td>
+</tr>
+</tbody>
+</table>
+<h4 id="biographical">Biographical</h4>
+<table class="table-hover">
+<tbody>
+<tr class="odd">
+<td align="left">Born</td>
+<td align="left">1992. Seoul, KR</td>
+</tr>
+<tr class="even">
+<td align="left">Citizen</td>
+<td align="left">South Korea</td>
+</tr>
+</tbody>
+</table>
 
