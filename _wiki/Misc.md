@@ -1,4 +1,0 @@
-sore
-bug
-big
-big
