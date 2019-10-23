@@ -7,7 +7,7 @@ updated : 2019-10-21 15:43:36 +0900
 tag     : bash linux
 toc     : true
 public  : true
-parent  : index
+parent  : Tips
 latex   : false
 ---
 * TOC
