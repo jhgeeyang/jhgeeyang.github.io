@@ -5,6 +5,7 @@ permalink: /about/
 comment: false
 ---
 
+A pdf version is available [here](cv.pdf).
 <div class="contact">
 {% if site.github_username %}
         <a href="https://github.com/{{ site.github_username }}">GitHub</a>
