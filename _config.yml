@@ -1,17 +1,17 @@
 # Site settings
-title: 기계인간 John Grib
+title: Jihyun Yang 
 url: "https://johngrib.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    Blog of Jihyun
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
-disqus_shortname: johngrib
+email: jihyunyang@mines.edu
+author: Jihyun 
+profile: Jihyun
+twitter_username: 
+github_username: jhgeeyang
+disqus_shortname: 
 
 # Build settings
 plugins:
@@ -38,8 +38,8 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: jihyunyang
+  shortname: jihyunyang
 
 google_analytics:
   ua: UA-110224147-1
