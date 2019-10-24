@@ -13,6 +13,8 @@ comment : false
 
 * [[Tips]]
     * [[bash]]
+* [[Useful Libraries]]
+    * [[Eigen]]
 * [[timeline]]
 * [[algorithm]]
     * [[average-complexity]]
