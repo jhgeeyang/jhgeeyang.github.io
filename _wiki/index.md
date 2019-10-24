@@ -15,6 +15,7 @@ comment : false
     * [[bash]]
 * [[Useful Libraries]]
     * [[Eigen]]
+    * [[Cuda]]
 * [[timeline]]
 * [[algorithm]]
     * [[average-complexity]]
