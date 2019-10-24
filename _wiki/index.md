@@ -26,7 +26,7 @@ comment : false
     * [[regex-prime]]
     * [[von-neumann-extractor]]
 *   [[ML]]
-    * [[Archive of Networks]
+    * [[Archive of Networks]]
 * [[clipping]]{글 모음 및 요약}
     * [[legend]]
         * [[Bill-Atkinson-productivity]]

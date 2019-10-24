@@ -14,4 +14,4 @@ latex   : false
 {:toc}
 
 ### Links
-- (EfficientNet)[https://github.com/qubvel/efficientnet]
+- [EfficientNet](https://github.com/qubvel/efficientnet)
