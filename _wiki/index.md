@@ -10,9 +10,9 @@ comment : false
     * [[book-log-2019]]
     * [[memo-2019]]
     * [[test]]
-
 * [[Tips]]
     * [[bash]]
+    * [[some troubleshooting]]
     * [[music for coding]]
 * [[Useful Libraries]]
     * [[Eigen]]

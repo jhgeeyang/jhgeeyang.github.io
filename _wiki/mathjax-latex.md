@@ -92,3 +92,74 @@ $$
 * [jsbin.com/zimuxulawu](http://jsbin.com/zimuxulawu/edit?html,output): 여기서 연습해 볼 수 있다.
 * [detexify.kirelabs.org/classify.html](http://detexify.kirelabs.org/classify.html): 내가 찾는 기호와 유사한 기호의 목록과 latex 코드를 제안해준다.
 
+# Bibtex 101
+- Mendeley or Biblatex or Zotero
+- Maybe Zotero or Mendeley
+- Start from Mendeleyk
+- [WikiBooks](https://en.wikibooks.org/wiki/LaTeX/Bibliography_Managemet)
+# BibTex
+Basic Form
+```tex
+@article{greenwade93,
+    author  = "George D. Greenwade",
+    title   = "The {C}omprehensive {T}ex {A}rchive {N}etwork ({CTAN})",
+    year    = "1993",
+    journal = "TUGBoat",
+    volume  = "14",
+    number  = "3",
+    pages   = "342--351"
+}
+```
+- @type: article, book, booklet, ...
+- author: John {von Neumann}
+Basic Cite
+ ```
+ /cite[]{CODE}
+ ```
+ - just before the End of the document
+ - insert
+```
+\bibliography{library.bib}
+```
+Bib Style
+- .tex file inculdes **bibliographystyle**
+- no whitespace btw bib files
+``
+\bibliographystyle{plain}
+\bibliographystyle{agsm}
+before the La-TeX\begin{document}
+...
+\bibliography{<directory-and-bib-file-name,file2,file3>}
+\end{document}
+```
+- asgm is the example of stye you want to use
+```
+```
+\documentclass{article}
+\usepackage{natbib}
+```
+# citation Key
+- Tools - Options - Document Details - Citation Key
+- e.g) Gee2018
+## Mendeley Ref -> LaTex
+- **Sync** button
+- Tools - Options - BibTex
+- Edit Path
+- "library.lib" created
+- **copy** this file and paste it to library folder for LaTEX
+- [sources](http://biblioteca.unileon.es/files/Mendeley%20and%20BibTeX%20into%20LaTeX.pdf)
+    - check link in link 
+
+
+# LaTEX 101 Resources
+- [source1](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
+- [source2](https://www.maths.tcd.ie/%7Edwilkins/LaTeXPrimer/GSWLaTeX.pdf)
+- [source3](https://tobi.oetiker.ch/lshort/lshort.pdf)
+
+# My workflow
+- find Name or citation Key in large bib file
+- extract the part
+- put it in new .bib
+- cite in .tex
+    - \cite{}
+    - \cite[]{}

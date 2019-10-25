@@ -13,6 +13,47 @@ latex   : false
 * TOC
 {:toc}
 
+### get the full path from the symbolic link
+```
+readlink -f 'fileName'
+```
+### Links for presnetation
+- [inc_post](https://www.inc.com/geoffrey-james/11-public-speaking-tips-from-the-best-ted-talks-speakers.html)
+- [BI annoying habits](https://speakermagazine.com/top-10-most-annoying-speaker-habits/)
+
+### Setting vimrc 4 Python
+- [src](https://justin.abrah.ms/vim/vim_and_python.html)
+
+### more Bibtex
+- [src](https://www.economics.utoronto.ca/osborne/latex/BIBTEX.HTM)
+# Slurm Scheduler
+- [source](https://slurm.schedmd.com/squeue.html)
+- [source2](http://www.brightcomputing.com/blog/bid/174099/slurm-101-basic-slurm-usage-for-linux-clusters)
+- [Mines Source](http://inside.mines.edu/HPC-Slurm)
+- [Mio User Guide](http://inside.mines.edu/mio/page7.html)
+- squeue, sbatch, sinfo
+- Just to check your job: try alias in bash script
+```
+squeue -u [myname]
+```
+# Linux command for noobs
+- [source](https://www.reddit.com/r/linux4noobs/comments/83px7m/best_commands_to_know/)
+
+### All the rigth moves for vim
+- [source](http://vim.wikia.com/wiki/All_the_right_moves)
+
+# selfManagement
+- [source](http://calnewport.com/blog/2016/09/14/on-deep-breaks/)
+- Deep Breaks Again
+- walk, Daydreaming, Summarizing, household Task, books.
+- non-addictive.
+
+# Money Investment
+- [source](http://calnewport.com/blog/2016/09/14/on-deep-breaks/)
+- LATER
+
+# Morning Boost
+- [source](https://www.reddit.com/r/productivity/comments/4nb2q2/what_is_your_morning_news_reading_routine/)
 # Web, Architecture
 
 * 2018-12-10 [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/?fbclid=IwAR34mOQSVzaMIyTeg74BbTqrCdZFjOV-78_v_K8QyRdVSw1580Ht-kAh25E) [한국어](https://docs.microsoft.com/ko-kr/azure/architecture/patterns/?fbclid=IwAR34mOQSVzaMIyTeg74BbTqrCdZFjOV-78_v_K8QyRdVSw1580Ht-kAh25E )

@@ -45,3 +45,30 @@ rsync -avzh jihyunyang@mio.mines.edu:/[some directory] ~/[some my local director
 - ls -al | grep [smthing]
 - and it is case sensitive
 
+### how to use crontab
+- [submit a job in crontab](https://awc.com.my/uploadnew/5ffbd639c5e6eccea359cb1453a02bed_Setting%20Up%20Cron%20Job%20Using%20crontab.pdf)
+- e.g) Setting an alarm
+
+### naviagating in Terminal
+- [source](https://askubuntu.com/questions/423529/how-to-efficiently-switch-between-several-terminal-windows-using-the-keyboard)
+- Alt + Tilde(Can be moved in same application too)
+- <C+shift+T>: new tab
+- <alt+num>: moving tab
+- <C+pgdn>: also moving tab. toggling
+### Find pattern containing files
+- [source](https://stackoverflow.com/questions/16956810/how-do-i-find-all-files-containing-specific-text-on-linux)
+```
+grep -rnw '/path/to/somewhere/' -e 'pattern'
+```
+### Adding Hibernation shortcut
+- Test in terminal
+- systemtcl suspend -i
+### linux - Watch & tail
+```
+watch -n 5 -d cat log.txt
+```
+- exit by <C-C>
+### linux - symbolic link
+```
+ln -s [orgin] [name of symlink]
+```
