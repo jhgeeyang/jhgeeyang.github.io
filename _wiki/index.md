@@ -28,7 +28,7 @@ comment : false
     * [[von-neumann-extractor]]
 *   [[ML]]
     * [[Archive of Networks]]
-    * [[Networks]]
+    * [[Keras]]
 * [[clipping]]{글 모음 및 요약}
     * [[legend]]
         * [[Bill-Atkinson-productivity]]
