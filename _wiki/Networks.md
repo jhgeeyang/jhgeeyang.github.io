@@ -1,8 +1,8 @@
 layout  : wiki
 title   : Keras
 summary : 
-date    : 2019-10-21 13:32:07 +0900
-updated : 2019-10-21 15:43:36 +0900
+date    : 2019-10-21 14:32:07 +0900
+updated : 2019-10-21 14:43:36 +0900
 tag     : ML
 toc     : true
 public  : true
@@ -11,6 +11,7 @@ latex   : false
 ---
 * TOC
 {:toc}
+
 ## preparation for Running Keras
 
 #### Environment
