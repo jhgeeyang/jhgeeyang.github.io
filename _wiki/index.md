@@ -13,6 +13,7 @@ comment : false
 
 * [[Tips]]
     * [[bash]]
+    * [[music for coding]]
 * [[Useful Libraries]]
     * [[Eigen]]
     * [[Cuda]]
