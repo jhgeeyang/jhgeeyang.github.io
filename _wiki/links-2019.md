@@ -13,6 +13,11 @@ latex   : false
 * TOC
 {:toc}
 
+### mendeley tips
+- [src](
+https://www.reddit.com/r/GradSchool/comments/7cwyyb/mendeley_tips/)
+### Trello for project management
+- [src](https://wpcurve.com/trello-for-project-management/)
 ### get the full path from the symbolic link
 ```
 readlink -f 'fileName'

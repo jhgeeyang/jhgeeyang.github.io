@@ -15,6 +15,17 @@ latex   : false
 
 
 # Misc tips
+### Close Lid & Sleep
+- [src](https://itsfoss.com/ubuntu-close-lid-suspend/)
+### Trash in linux
+```
+rm -rf ~/.local/share/Trash/*
+```
+#### using trash-cli
+```
+sudo apt install trash-cli
+trash-empty
+```
 ### vscode tips
 - ctrl+tab : switching tabs
 - ctrl+p : shows recently opened files
@@ -71,4 +82,41 @@ watch -n 5 -d cat log.txt
 ### linux - symbolic link
 ```
 ln -s [orgin] [name of symlink]
+```
+
+### Previous command
+- "ctrl p"
+- [src](https://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history)
+- [src2](https://unix.stackexchange.com/questions/147563/how-do-i-repeat-the-last-command-without-using-the-arrow-keys)
+```
+Up     Ctrl+P
+Down   Ctrl+N
+Left   Ctrl+B
+Right  Ctrl+F
+Home   Ctrl+A
+End    Ctrl+E
+Delete Ctrl+D
+```
+### Disable vscodeVim
+- edit settings.json
+
+### open new terminal from vscode 
+- ctrl shift c
+### set new volume from terminal
+```
+amixer sset 'Master' 50%
+```
+### Fixed Schedule
+- [src](https://www.iwillteachyoutoberich.com/blog/time-management-how-an-mit-postdoc-writes-3-books-a-phd-defense-and-6-peer-reviewed-papers-and-finishes-by-530pm/)
+
+### update
+```
+sudo apt-get update && sudo apt-get upgrade 
+sudo apt-get dist-upgrade
+```
+### bash prompt howto
+- [src](http://tldp.org/HOWTO/Bash-Prompt-HOWTO/index.html)
+- counting files
+```
+ls -l | wc -l
 ```

@@ -14,6 +14,7 @@ comment : false
     * [[bash]]
     * [[some troubleshooting]]
     * [[music for coding]]
+    * [[Vim]]
 * [[Useful Libraries]]
     * [[Eigen]]
     * [[Cuda]]

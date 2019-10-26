@@ -13,6 +13,13 @@ latex   : false
 * TOC
 {:toc}
 
+### lazygit config
+- [src](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one)
+
+### clipboard confusion: ctrl v or shfit ins
+- [src](https://askubuntu.com/questions/26655/how-do-you-know-when-to-use-shiftinsert-vs-ctrl-v-vs-right-click-paste-to-paste)
+- [archwiki-src](https://wiki.archlinux.org/index.php/clipboard)
+
 ### Hidipi TroubleShooting
 - [Spotify](https://community.spotify.com/t5/Desktop-Linux/Linux-client-barely-usable-on-HiDPI-displays/td-p/1067272)
 
