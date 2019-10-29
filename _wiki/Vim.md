@@ -18,7 +18,6 @@ latex   : false
 - [another](http://www.fprintf.net/vimCheatSheet.html)
 
 Cursor movement
-
     h - move left
     j - move down
     k - move up
