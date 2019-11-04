@@ -15,6 +15,7 @@ comment : false
     * [[some troubleshooting]]
     * [[music for coding]]
     * [[Vim]]
+        * [[Vim-packges]]
 * [[Useful Libraries]]
     * [[Eigen]]
     * [[Cuda]]
