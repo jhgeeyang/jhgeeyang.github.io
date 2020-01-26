@@ -3,7 +3,7 @@ layout  : wiki
 title   : bash tips
 summary : 
 date    : 2019-10-21 13:32:07 +0900
-updated : 2019-10-21 15:43:36 +0900
+updated : 2020-01-21 15:43:36 +0900
 tag     : bash linux
 toc     : true
 public  : true
@@ -84,10 +84,11 @@ watch -n 5 -d cat log.txt
 ln -s [orgin] [name of symlink]
 ```
 
-### Previous command
+### Navigating + Previous command
 - "ctrl p"
 - [src](https://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history)
 - [src2](https://unix.stackexchange.com/questions/147563/how-do-i-repeat-the-last-command-without-using-the-arrow-keys)
+- [src3](https://www.linux.com/tutorials/fabulous-bash-navigation-shortcuts/)
 ```
 Up     Ctrl+P
 Down   Ctrl+N
@@ -96,7 +97,23 @@ Right  Ctrl+F
 Home   Ctrl+A
 End    Ctrl+E
 Delete Ctrl+D
+Clean  Ctrl+I or clear
 ```
+
+```
+One word back Alt+b
+One word fwd  Alt+f
+Exit Graphical Sesssion Ctrl+Alt+F1
+```
+
+- replay history: e.g) !1626
+- cutting and pasting
+```
+Yank   Ctrl+Y
+Delete   Ctrl+U
+```
+
+
 ### Disable vscodeVim
 - edit settings.json
 
