@@ -10,6 +10,7 @@ comment : false
     * [[book-log-2019]]
     * [[memo-2019]]
     * [[test]]
+    * [[test2]]
 * [[Tips]]
     * [[bash]]
     * [[some troubleshooting]]
