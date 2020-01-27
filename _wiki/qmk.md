@@ -1,5 +1,5 @@
 layout  : wiki
-title   : qmk
+title   : qmk tutorial
 summary :
 date    : 2020-01-26 15:43:36 +0900
 updated : 2020-01-26 15:43:36 +0900
