@@ -27,3 +27,8 @@ comment : false
 ```
 make preonic/rev3:default:dfu-util
 ```
+## Troubleshooting
+### When Left ALT and GUI swapped
+- hold space+alt and plug
+-
+[LINK](https://www.reddit.com/r/MechanicalKeyboards/comments/70gzhh/help_gui_keys_in_qmk_no_longer_opening_windows/dn317qu/)
