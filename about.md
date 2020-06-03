@@ -25,7 +25,7 @@ A pdf version is available [here](cv.pdf).
 <table class="table-hover">
 <tbody>
 <tr class="odd">
-<td align="left">2023</td>
+<td align="left">2022</td>
 <td align="left">Ph.D.</td>
 <td align="left">Colorado School of Mines</td>
 </tr>
